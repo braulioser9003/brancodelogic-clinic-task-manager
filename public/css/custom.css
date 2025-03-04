@@ -1,0 +1,65 @@
+
+.btn-primary{
+    background-color: #5364ff !important;
+    border-color: #3bafda !important;
+    border-radius: 25px !important;
+}
+input{
+    border-radius: 20px !important;
+}
+.text-custom{
+    color: #5364ff !important;
+}
+a:hover{
+    color: #323a46 !important;
+}
+
+a{
+    color: #5364ff;
+}
+
+.close-jq-toast-single{
+    top: -7px !important;
+    right: -4px !important;
+}
+.close-jq-toast-single{
+    height: 25px !important;
+    width: 25px !important;
+    line-height: 27px !important;
+}
+
+.navbar-custom .app-search-box .btn{
+    margin: 0 0 0 -44px !important;
+}
+
+.form-select{
+    border-radius: 20px !important;
+    -webkit-border-radius: 20px !important;
+    -moz-border-radius: 20px !important;
+    -ms-border-radius: 20px !important;
+    -o-border-radius: 20px !important;
+}
+
+.navbar-custom img, .left-side-menu img{
+    height: revert-layer;
+    display: initial !important;
+}
+
+.modal-content{
+    border-radius: 10px !important;
+    -webkit-border-radius: 10px !important;
+    -moz-border-radius: 10px !important;
+    -ms-border-radius: 10px !important;
+    -o-border-radius: 10px !important;
+}
+
+div.dataTables_wrapper div.dataTables_processing{
+    padding: 0px 0 !important;
+    border-radius: 50px !important;
+    margin-top: -112px !important;
+    background: #ddd !important;
+    -webkit-border-radius: 50px !important;
+    -moz-border-radius: 50px !important;
+    -ms-border-radius: 50px !important;
+    -o-border-radius: 50px !important;
+}
